@@ -1,0 +1,12 @@
+/* Style Sheet for Portfolio Website */
+
+body{
+    background-color: #FFE4B5;
+}
+
+div#container{
+    /* Middle Container */
+    margin: auto;
+    width: 1024px;
+    background-color: #703D39;
+}
